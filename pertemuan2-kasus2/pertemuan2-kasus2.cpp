@@ -17,5 +17,5 @@ int main()
     bilangan = 2 * bilangan;
 
     cout << "nilai sekarang: " << bilangan;
-}
+} //diberikan bilangan random, jika bilangan lebih kecil daripada 5 maka muncul "bi. kurang dari lima, jika tidak maka bilangan dikali 2" 
 
