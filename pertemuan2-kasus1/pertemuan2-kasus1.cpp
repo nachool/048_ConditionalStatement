@@ -4,7 +4,7 @@ using namespace std;
 int main()
 {
     int bilangan;
-    srand(time(0));
+    srand(time(0)); //untuk set nomer random
 
     bilangan = rand() % 10;
     cout << "Nilai awalnya: " << bilangan << endl;
