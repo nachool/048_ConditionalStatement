@@ -27,6 +27,6 @@ int main()
     cout << "Nilai matematika: " << nMatematika;
     cout << " Nilai bahasa: " << nBahasa; 
     cout << " Nilai Fisika: " << nFisika;
-    cout << " Status kelulusan" << status; 
+    cout << " Status kelulusan: " << status; 
 }
 
