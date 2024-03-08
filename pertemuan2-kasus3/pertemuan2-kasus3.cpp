@@ -16,4 +16,4 @@ int main()
         bilangan = 4 * bilangan;
     }
     cout << "Nilai sekarang ; " << bilangan;
-}
+}// diberikan suatu bilangan random, jika bilangan lebih besar atau sama dengan 5 maka kali 2, jika tidak maka kali 4
