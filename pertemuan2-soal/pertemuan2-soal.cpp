@@ -25,8 +25,8 @@ int main()
         status = "Tidak lulus";
     }
     cout << "Nilai matematika" << nMatematika;
-    cout << "Nilai bahasa: " << nBahasa; 
-    cout << "Nilai Fisika: " << nFisika;
-    cout << "Status kelulusan" << status; 
+    cout << " Nilai bahasa: " << nBahasa; 
+    cout << " Nilai Fisika: " << nFisika;
+    cout << " Status kelulusan" << status; 
 }
 
