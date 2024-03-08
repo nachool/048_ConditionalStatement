@@ -27,5 +27,5 @@ int main()
     cout << "Bilangan pertama : " << bilangan1 << endl;
     cout << "Bilangan kedua : " << bilangan2 << endl;
     cout << "Status bilangan : " << status;
-}
+} // diberikan dua bilangan random, jika bilangan 1 dan 2 sama maka muncul "bilangan satu sama dengan bilangan dua", jika bilangan 1 lebih besar daripada bilangan 2, maka muncul "Bilangan satu lebih besar dari bilangan dua", jika bukan keduanya maka muncul "Bilangan satu lebih kecil dari bilangan dua"
 
