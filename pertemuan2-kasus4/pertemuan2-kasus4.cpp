@@ -17,11 +17,11 @@ int main()
     }
     else if (bilangan1 > bilangan2)
     {
-        status = "Bilangan satu lebih besar dari bilangan dua";
+        status = " Bilangan satu lebih besar dari bilangan dua";
     }
     else
     {
-        status = "Bilangan satu lebih kecil dari bilangan dua";
+        status = " Bilangan satu lebih kecil dari bilangan dua";
     }
 
     cout << "Bilangan pertama : " << bilangan1 << endl;
